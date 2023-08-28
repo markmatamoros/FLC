@@ -13553,7 +13553,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 331.19511203344598, 937.823899865150452, 73.0, 22.0 ],
+					"patching_rect" : [ 333.469702558858046, 944.823899865150452, 73.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -27310,7 +27310,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "FLC_Note_Sel.maxpat",
-				"bootpath" : "~/Desktop/Temp/FLC_Max/patchers",
+				"bootpath" : "~/Documents/Repo Projects/FLC/FLC/FLC_Max/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

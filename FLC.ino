@@ -57,7 +57,7 @@ void loop()
   } 
   sendTracker++;
   
-  monitorVals();
+  //monitorVals();
 }
 
 
